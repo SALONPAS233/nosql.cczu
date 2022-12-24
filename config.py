@@ -1,0 +1,9 @@
+REDIS_HOST = "127.0.0.1"
+REDIS_PASSWORD = 123456
+ES_HOST = "localhost:9200"
+# ES_HOST = "localhost:9200"
+
+MYSQL_HOST = "127.0.0.1"
+MYSQL_DBNAME = "xiusearch"
+MYSQL_USER = "root"
+MYSQL_PASSWORD = "gn20020715"
